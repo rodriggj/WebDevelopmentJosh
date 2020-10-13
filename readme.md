@@ -8,6 +8,7 @@
 - [ ] Complete installation of `XCode`
 - [ ] Complete installation of `Node`
 - [ ] Complete installation of `NPM`
+---
 
 ## Section 1: Course Introduction <sub>Complete by 16 Oct 2020</sub>
 
