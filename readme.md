@@ -34,3 +34,20 @@
 - [ ] Complete Lesson 16: `Setting Up Our Developer Environment` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587518#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/8)</sub>
 - [ ] Complete Lesson 17: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
 ---
+
+## Section 3: HTML: The Essentials <sub>TBD</sub>
+
+- [ ] Complete Lesson 18: `What Matters In This Section` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 19: `The Internet in 5 Minutes` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/3)</sub>
+- [ ] Complete Lesson 20: `Intro To The Web` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587510#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/4)</sub>
+- [ ] Complete Lesson 21: `The Request/Response Cycle` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587514#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/5)</sub>
+- [ ] Complete Lesson 22: `Front-End and Back-End` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22588356#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/6)</sub>
+- [ ] Complete Lesson 23: `What do HTML/CSS/JS do?` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587516#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/7)</sub>
+- [ ] Complete Lesson 24: `Setting Up Our Developer Environment` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587518#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/8)</sub>
+- [ ] Complete Lesson 25: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+- [ ] Complete Lesson 26: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+- [ ] Complete Lesson 27: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+- [ ] Complete Lesson 28: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+- [ ] Complete Lesson 29: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+- [ ] Complete Lesson 30: `Optional VSCode Theme` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
+---
