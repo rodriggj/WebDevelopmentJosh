@@ -51,3 +51,38 @@
 - [ ] Complete Lesson 29: `Images` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
 - [ ] Complete Lesson 30: `Comments` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22708691#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/9)</sub>
 ---
+
+## Section 4: Next Steps & Semantics
+
+- [ ] Complete Lesson 32: `What Matters In This Section` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 33: `What Exactly Is HTML 5` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 34: `Block vs Inline Elements - Divs & Spans` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 35: `An Odd Assortment of Elements` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 36: `Entity Codes` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 37: `Coding Excercise 4: Snowman Logo Excercise` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 38: `Playing with Semantic Elements` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 39: `Screen Reader Demonstration` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 40: `VSCode Tip: Emmet` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+---
+
+## Section 5: HTML: Forms & Tables
+
+- [ ] Complete Lesson 41: `What Matters In This Section` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 42: `Unit Goals` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 43: `Introducing HTML Tables` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 44: `Tables: TR, TD, and TH Elements` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 45: `Tables: Thead, Tbody, and Tfoot Elements` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 46: `Tables: Colspan & Rowspan` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 47: `The Form Element` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 48: `Common Input Types` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 49: `The All-Important Label` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 50: `HTML Buttons` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 51: `The Name Attribute` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 52: `"Hijacking" Google & Reddits Search` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 53: `Radio Buttons, Checkboxes, & Selects` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 54: `Range & Text Area` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 54a: `Coding Excercise 6: Forms Practice Excercise` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 55: `HTML5 Form Validations` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 56: `Creating a Marathon Registration Form Intro` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+- [ ] Complete Lesson 57: `Creating a Marathon Registration Form Solution` <sub>[Lesson](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22608008#overview)</sub>&nbsp;&nbsp;&nbsp;<sub>[Issue](https://github.com/rodriggj/WebDevelopmentJosh/issues/2)</sub>
+---`
