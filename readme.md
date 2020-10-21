@@ -44,5 +44,5 @@ cd WebDevelopmentJosh
 
 > NOTE: Linux has an auto-complete feature so if you type `cd` and begin to type `WebDev..` and hit `Tab` button on your keyboard the name of the file should auto-complete. 
 
-8. That's it! This is the initial Set-Up. If you got this far we can now talk about how to create `branches` and `commit code` and/or `merge` into `main` branch. 
+8. That's it! This is the initial Set-Up. You should see in the left `nav-bar` on your IDE a folder structure and files. Each of these files, if changed will require a `commit` to the Github repository, which keeps a version of the files you modify or create. We will learn how to modify the files and commit our source code to Github to maintain versions, review code, and other things going forward.
 ----
