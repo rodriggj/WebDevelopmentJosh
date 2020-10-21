@@ -6,7 +6,18 @@
 
 Steps: 
 1. Open your `Visual Studio Code` Integrated Development Environment (IDE).
-2. When the `IDE` opens, click on the application, and press `~ + control`, which will open a `terminal` window. 
-3. 
+2. When the `IDE` opens, click on the application, and type the following to open a `terminal` window. 
+```javascript
+~ + control
+```
+3. In the `terminal` window, you want to navigate to the `Desktop` of your computer. The computer will be referred to as `local` machine. 
+```javascript
+cd ~/Desktop
+```
+4. Verify you are on the `Desktop` with the `present working directory` command  ... 
+```javascipt
+pwd 
 
-
+//Result
+/Users/gabrielrodriguez/Desktop
+```
