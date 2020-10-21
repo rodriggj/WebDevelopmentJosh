@@ -59,7 +59,7 @@ cd WebDevelopmentJosh
 > Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`
 >1. multiple people can work on the same code together. 
 >2. Code gets re-written all the time, committing code lets you keep track of various versions 
->3. Repos allow team members to `peer review` code and help when needed 
+>3. Repos allow team members to `peer review` code and align it to problems they encounter (or lessons in your case)
 >4. When you finally have the code you want you can `merge` it into a consistent copy that all other variations can use 
 
 > This section will tell what to do while reviewing a lesson, and how to submit your code for review, along with a way to version your code so you know what was rev 1, rev 2, etc. We will do this through a process called `branching`. 
