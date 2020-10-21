@@ -1,4 +1,5 @@
 # Github Instructions
+## Github Documentation <sub>[Git Handbook](https://guides.github.com/introduction/git-handbook/)</sub>
 
 ## Pre-Requisites
 - [ ] You installed the `X-Code` packages from `Apple Package Mangager`. If you haven't, your computer will notify you with a dialog box and prompt your to install required files.
