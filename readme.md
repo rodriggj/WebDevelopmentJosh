@@ -56,7 +56,7 @@ cd WebDevelopmentJosh
 
 ## Recurring Procedure
 
-> Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`There are several reasons for committing code: 
+> Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`
 >1. multiple people can work on the same code together. 
 >2. Code gets re-written all the time, committing code lets you keep track of various versions 
 >3. Repos allow team members to `peer review` code and help when needed 
