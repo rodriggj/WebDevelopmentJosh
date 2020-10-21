@@ -56,7 +56,11 @@ cd WebDevelopmentJosh
 
 ## Recurring Procedure
 
-> Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. Why do we do this? There are several reasons for doing this: 1. multiple people can work on the same code together. Instead of having to write a file and sending to someone like a `MS Word` document, several folks can work on the code at the same time 2. Code gets re-written all the time, you may get stuck you may try something and find out it doesn't work, or you may be driven to change working code 3. If you use a code repository people can `peer review` and help de-bug or modify your code, 4. etc. etc. etc. 
+> Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`There are several reasons for committing code: 
+>1. multiple people can work on the same code together. 
+>2. Code gets re-written all the time, committing code lets you keep track of various versions 
+>3. Repos allow team members to `peer review` code and help when needed 
+>4. When you finally have the code you want you can `merge` it into a consistent copy that all other variations can use 
 
 > This section will tell what to do while reviewing a lesson, and how to submit your code for review, along with a way to version your code so you know what was rev 1, rev 2, etc. We will do this through a process called `branching`. 
 
