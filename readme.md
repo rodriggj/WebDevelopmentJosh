@@ -57,7 +57,7 @@ cd WebDevelopmentJosh
 ## Recurring Procedure
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8760590/96669424-718bd900-131a-11eb-9ad7-1eff12ff7b92.png" width=400 height=auto>
+    <img src="https://user-images.githubusercontent.com/8760590/96670326-4a360b80-131c-11eb-81a5-c1810c10d391.png" width=400 height=auto>
 </p>
 
 > Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`
