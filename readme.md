@@ -1,7 +1,7 @@
 # Github Instructions
 
 ## Pre-Requisites
-- [ ] You installed the `X-Code` packages from `Apple Package Mangager`. If you haven't Mac will tell you you have to install `X-Code` as a notification on your monitor. 
+- [ ] You installed the `X-Code` packages from `Apple Package Mangager`. If you haven't, your computer will notify you with a dialog box and prompt your to install required files.
 - [ ] You installed `Git` on your local machine. To verify you have installed `Git`, Open a `terminal` window, and type the following: 
 ```
 git --version
