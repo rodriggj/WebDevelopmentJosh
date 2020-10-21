@@ -14,7 +14,7 @@
 git --version
 ```
 ---
-## First Time Set-Up
+## Non-Recurring Procedure
 
 ### Steps: 
 1. Open your `Visual Studio Code` Integrated Development Environment (IDE).
@@ -53,3 +53,13 @@ cd WebDevelopmentJosh
 
 8. That's it! This is the initial Set-Up. You should see in the left `nav-bar` on your IDE a folder structure and files. Each of these files, if changed will require a `commit` to the Github repository, which keeps a version of the files you modify or create. We will learn how to modify the files and commit our source code to Github to maintain versions, review code, and other things going forward.
 ----
+
+## Recurring Procedure
+
+> Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. Why do we do this? There are several reasons for doing this: 1. multiple people can work on the same code together. Instead of having to write a file and sending to someone like a `MS Word` document, several folks can work on the code at the same time 2. Code gets re-written all the time, you may get stuck you may try something and find out it doesn't work, or you may be driven to change working code 3. If you use a code repository people can `peer review` and help de-bug or modify your code, 4. etc. etc. etc. 
+
+> This section will tell what to do while reviewing a lesson, and how to submit your code for review, along with a way to version your code so you know what was rev 1, rev 2, etc. We will do this through a process called `branching`. 
+
+### Steps: 
+1. 
+2. When the `IDE` ope
