@@ -34,7 +34,7 @@ ls -la
 ```
 
 7. Navigate into the `WebDevelopmentJosh` folder so you can see the contents of the repository. Type the following command: 
-``bash
+```bash
 cd WebDevelopmentJosh
 ```
 
