@@ -1,6 +1,12 @@
 # Github Instructions
 ## Github Documentation <sub>[Git Handbook](https://guides.github.com/introduction/git-handbook/)</sub>
 
+## What Are We Trying To Do
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/8760590/96662666-0f2bdc00-130c-11eb-9d65-db8f45b4c706.png" width=400 height=auto>
+</p>
+
 ## Pre-Requisites
 - [ ] You installed the `X-Code` packages from `Apple Package Mangager`. If you haven't, your computer will notify you with a dialog box and prompt your to install required files.
 - [ ] You installed `Git` on your local machine. To verify you have installed `Git`, Open a `terminal` window, and type the following: 
