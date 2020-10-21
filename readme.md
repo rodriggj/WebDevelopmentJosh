@@ -17,7 +17,9 @@ cd ~/Desktop
 4. Verify you are on the `Desktop` with the `present working directory` command  ... 
 ```javascipt
 pwd 
+```
 
-//Result
+The result should look somehting like 
+```bash
 /Users/gabrielrodriguez/Desktop
 ```
