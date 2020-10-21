@@ -7,7 +7,7 @@
 git --version
 ```
 ---
-## 1st Time Set-Up
+## First Time Set-Up
 
 Steps: 
 1. Open your `Visual Studio Code` Integrated Development Environment (IDE).
