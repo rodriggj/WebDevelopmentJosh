@@ -40,5 +40,5 @@ cd WebDevelopmentJosh
 
 > NOTE: Linux has an auto-complete feature so if you type `cd` and begin to type `WebDev..` and hit `Tab` button on your keyboard the name of the file should auto-complete. 
 
-8. That's it! This is the initial Set-Up. If you got this far we can now talk about how to create `branches` and `commit code` for `peer review` and/or `merge` into `main` branch. 
+8. That's it! This is the initial Set-Up. If you got this far we can now talk about how to create `branches` and `commit code` and/or `merge` into `main` branch. 
 ----
