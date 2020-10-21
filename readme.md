@@ -9,7 +9,7 @@ git --version
 ---
 ## First Time Set-Up
 
-Steps: 
+### Steps: 
 1. Open your `Visual Studio Code` Integrated Development Environment (IDE).
 2. When the `IDE` opens, click on it, and type the following to open a `terminal` window. 
 ```javascript
