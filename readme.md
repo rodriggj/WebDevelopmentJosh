@@ -27,14 +27,14 @@ pwd
 git clone https://github.com/rodriggj/WebDevelopmentJosh.git
 ```
 
-6. That's it! You should now have a folder on your `Desktop` called `WebDevelopmentJosh`. You can view this by typeing the following command: 
+6. You should now have a folder on your `Desktop` called `WebDevelopmentJosh`. You can view this by typing the following command: 
 
 ```javascript 
 ls -la
 ```
 
 7. Navigate into the `WebDevelopmentJosh` folder so you can see the contents of the repository. Type the following command: 
-```javascript 
+``bash
 cd WebDevelopmentJosh
 ```
 
