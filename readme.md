@@ -110,7 +110,7 @@ git branch S1_L6
 git checkout S1_L6
 ```
 
-> NOTE Now you can go and complete the lesson. Create the files that the lesson tells you to, write out all the code examples like you need too ... etc etc. If you have any issues update the `Github issue` with questions, or go to the `readme.md` file and write questions. But the point is you have a clean slate to write code and execute the lesson. 
+> Now you can go and complete the lesson. Create the files that the lesson tells you to, write out all the code examples like you need too ... etc etc. If you have any issues update the `Github issue` with questions, or go to the `readme.md` file and write questions. But the point is you have a clean slate to write code and execute the lesson. 
 
 9. After you've completed your lesson or reached a point that you want to stop. You need to commit your code to the repository. To do this you will execute 3 commands in sequence. The following are the 3 commands: 
 ```bash
