@@ -110,11 +110,13 @@ git branch S1_L6
 git checkout S1_L6
 ```
 
+> NOTE Now you can go and complete the lesson. Create the files that the lesson tells you to, write out all the code examples like you need too ... etc etc. If you have any issues update the `Github issue` with questions, or go to the `readme.md` file and write questions. But the point is you have a clean slate to write code and execute the lesson. 
+
 9. After you've completed your lesson or reached a point that you want to stop. You need to commit your code to the repository. To do this you will execute 3 commands in sequence. The following are the 3 commands: 
 ```bash
 git add .
 git commit -am 'make a note that describes what you changed'
-git push
+git push -u origin {branch_name}
 ```
 > NOTE: The `git add` command tells Github what files to add. When you provide a `.` you are telling github to commit `all` changes. If you wanted to commit just a specific change to a specific file you could replace the `.` with a `file name` (e.g. index.html). 
 > The `git commit` command tells github that you added what you want and now you want to push it to a `staging` area for submission. In this `staging` area if you accidentally committed the wrong files or need to otherwise make a change you can still fix it. The `-am` flag says you need to pass Github some comments about what you changed. Finally the `'make a note ... changed'` text is a note that you can write. Doesn't matter what goes in here, but make it descriptive. 
