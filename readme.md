@@ -1,6 +1,6 @@
 # Josh Repo - Web Development
 
-## Section 1 Lesson 5: {Name}
+## Section 1 Lesson 5: Course Change Log
 
 ### Files Created
 - [ ] `index.html`
