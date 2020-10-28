@@ -7,8 +7,6 @@
 - [ ] `marathonform.html`
 - [ ] `S1_L5.html`
 
-### Files Deleted
-
 ### Questions
 - [ ] How do you pull up the `html` in a browser 
 
