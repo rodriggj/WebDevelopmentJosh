@@ -4,7 +4,5 @@
 
 ### Files Created
 
-### Files Deleted
-
 ### Questions
 
