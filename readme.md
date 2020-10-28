@@ -26,7 +26,7 @@
 
 - [ ] Hey don't know how to split the screen like Colt does in the video? 
     Steps: 
-    1. Use 1 of the 2 options in the previous step to get a `.html` file to render to the browser
+    1. Use 1 of the 2 options in the previous step to get a `.html` file to render to the browser (see the answer to the question above)
     2. Click `option + command + J` on the keyboard and it will split the screen to show the `.html` file and the `google chrome tools` view
 
 - [ ] What are all these back-ticks? 
