@@ -59,6 +59,9 @@ cd WebDevelopmentJosh
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8760590/96670326-4a360b80-131c-11eb-81a5-c1810c10d391.png" width=400 height=auto>
 </p>
+---
+# Flow Diagram <sub>[here](https://lucid.app/invitations/accept/99e62fe9-1594-4086-bdc4-c446176639a2)</sub>
+---
 
 > Now that you have the `root` folder for our `repository` synced to our `Github` repository, we can now commit code. `Why do we do this?`
 >1. multiple people can work on the same code together 
