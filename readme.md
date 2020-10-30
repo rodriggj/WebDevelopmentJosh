@@ -1,6 +1,7 @@
 # Josh Repo - Web Development
 
 ## {Section} {Lesson}
+- [] S1_L6
 
 ### Files Created
 - [] our first css exercise.html
