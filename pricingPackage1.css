@@ -1,6 +1,9 @@
 div {
     display: inline-block;
-    border: 2px solid black;
+    border: solid white;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
 }
 
 img {
@@ -8,20 +11,58 @@ img {
 }
 
 #one {
-    border-right: 1px dashed black;
+    background-color: white;
     text-align: center;
+    color: blue;
 }
 
 #two {
-    border-right: 1px dashed black;
+    background-color: white;
     text-align: center;
+    color: blue;
 }
 
 #three {
+    background-color: white;
     text-align: center;
+    color: blue;
 }
 
 #freetrial {
     background-color: blue;
     color: white;
+}
+
+button {
+    color: blue;
+    background-color: white;
+    border-color: blue;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+
+button:hover {
+    border-color: white;
+    transform: translateY(-0.25em);
+}
+
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+#personal {
+    color: grey;
+    font-size: 25px;
+}
+
+#small {
+    color: grey;
+    font-size: 25px;
+}
+
+#enterprise {
+    color: grey;
+    font-size: 25px;
 }
