@@ -1,0 +1,21 @@
+.die{
+    margin-top: 25px;
+    display: flex; 
+    flex-direction: column;
+    width: 40em;
+    height: 10em; 
+    border: 1px solid black; 
+    border-radius: 15px;
+    background: lightgrey;
+}
+
+.label{
+    color: white;
+    font-size: 115%;
+}
+
+#die-header{
+    color: orange;
+    text-align: center;
+    border-bottom: 1px solid orange;
+}
