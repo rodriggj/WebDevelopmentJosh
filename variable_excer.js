@@ -5,7 +5,8 @@
 /* Varialbes are used ALL them time in code. 
 
 Why do you use a VARIABLE? 
-Variables are used to temporarily "store" something in Memory. 
+Variables are used to temporarily "store" something in memory. Usually just long enough to execute a calculation or transaction of some
+sort. 
 
 When do you use a VARIABLE? 
 Before you use a Variable you need to ask yourself a few things: 
