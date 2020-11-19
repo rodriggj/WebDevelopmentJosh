@@ -40,24 +40,24 @@ MEDIUM - Problem 2: Refactor the code from Problem 1.
 
 Example: 
 MY SHOPPING LIST
-Get Tomatoes
-Get Potatos
-Get Milk
+- Get Tomatoes
+- Get Potatos
+- Get Milk
 Gabe Rodriguez
 */
 
 // WRITE YOUR CODE HERE
-// const title = 'My shopping list'; 
-// const creator = 'Gabe Rodriguez'; 
-// function listItem(item){
-//     console.log(item)
-// }
+const title = 'My shopping list'; 
+const creator = 'Gabe Rodriguez'; 
+function listItem(item){
+    console.log("- " + item)
+}
 
-// console.log(title.toUpperCase())
-// listItem("Get Tomatoes"); 
-// listItem("Get Potatos"); 
-// listItem("Get Milk");
-// console.log(creator);
+console.log(title.toUpperCase())
+listItem("Get Tomatoes"); 
+listItem("Get Potatos"); 
+listItem("Get Milk");
+console.log(creator);
 
 /*
 Things you learned: 
@@ -83,17 +83,17 @@ Gabe Rodriguez
 */
 
 // WRITE CODE HERE
-const title = 'My shopping list'; 
-const creator = 'Gabe Rodriguez'; 
-let items = ["Get Tomatoes", "Get Potatos", "Get Milk"]
+// const title = 'My shopping list'; 
+// const creator = 'Gabe Rodriguez'; 
+// let items = ["Get Tomatoes", "Get Potatos", "Get Milk"]
 
-function displayItems(arr){
-    console.log(arr[0] + ", " + arr[1] + ", " + arr[2])
-}
+// function displayItems(arr){
+//     console.log(arr[0] + ", " + arr[1] + ", " + arr[2])
+// }
 
-console.log(title.toUpperCase());
-displayItems(items);
-console.log(creator);
+// console.log(title.toUpperCase());
+// displayItems(items);
+// console.log(creator);
 
 /*
 Things you learned: 
