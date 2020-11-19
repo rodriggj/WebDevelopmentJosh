@@ -60,9 +60,9 @@ Refactor the code from Problem 1.
 
 Example: 
 MY SHOPPING LIST
-Get Tomatoes
-Get Potatos
-Get Milk
+- Get Tomatoes
+- Get Potatos
+- Get Milk
 Gabe Rodriguez
 */
 
