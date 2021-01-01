@@ -1,4 +1,4 @@
-# Josh Repo - Web Development
+# Web-Development
 
 ## Pre-Requisites
 - [ ] Complete installation of `Homebrew`
